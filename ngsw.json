@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1671128623145,
+  "timestamp": 1671129686879,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -397,7 +397,7 @@
     "/assets/sounds/tm2/tm2_switch001.wav": "9d24b56a2ee54a41910341caf0b1bce4fdc6e99a",
     "/assets/styles.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/card.png": "f50b1df499e37466ad70e32e0496fb1792466dc7",
-    "/favicon.ico": "ae0e7ac661ac4b0ee786fef52d313d7655e842cd",
+    "/favicon.ico": "881f8939dd0b8d4cad9e659d6eca06a980131356",
     "/index.html": "a8029ec08441198bbf1fcda8246a9141158162fa",
     "/main.js": "419b16da6f5f67a8e85f59461758ea0baedd2081",
     "/manifest.webmanifest": "08f10f6d080e05babf7864b4ffac0b54ba621865",
