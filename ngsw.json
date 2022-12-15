@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1671130626229,
+  "timestamp": 1671146139040,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -218,15 +218,15 @@
   "hashTable": {
     "/assets/.htaccess": "31a4651614d9ae730f1d414516823a37eed01be5",
     "/assets/config.template.yaml": "19b9bbe2c49ee89f804dd7f229c13374179e6637",
-    "/assets/config.yaml": "51f2608ea0b0e6b54491f055b2481750f33b4fbb",
-    "/assets/icons/icon-128x128.png": "441cfb3462dd382410ca129a73f4f10012ac53d6",
-    "/assets/icons/icon-144x144.png": "515a6d7db344ac1f596233226882bd039f00069a",
-    "/assets/icons/icon-152x152.png": "a4de1f39b82984368750f720682c4105c44592e8",
-    "/assets/icons/icon-192x192.png": "13f8349ac4d100b72a6af595f63163caca63a3f3",
-    "/assets/icons/icon-384x384.png": "70bad998fb57487b65d3311c9758e93b0f909ee6",
-    "/assets/icons/icon-512x512.png": "c58755dfd9c5524a85eef6c9bffb059186d44bdb",
-    "/assets/icons/icon-72x72.png": "35fca58b80ea64415d163f43268d3a93ca94c6db",
-    "/assets/icons/icon-96x96.png": "a2974a288162815aa45691483f528fe8f2becb73",
+    "/assets/config.yaml": "bd9841e92236ca9986859725d5c614b324b0281e",
+    "/assets/icons/icon-128x128.png": "34bf2cbb09240a6e92ba60f86b78344088a49b81",
+    "/assets/icons/icon-144x144.png": "63a1c0d81169876575ff34268ff70decdc38489e",
+    "/assets/icons/icon-152x152.png": "b22607631f63153ca23f6e6f26882fe001dacd76",
+    "/assets/icons/icon-192x192.png": "f03ca87080d515e8856a13ed74d045e4f4b5d1f9",
+    "/assets/icons/icon-384x384.png": "fdb17cb6faca1659699e01f5c037c4ffe1cc1900",
+    "/assets/icons/icon-512x512.png": "be9cbf83361c3ff184af5e5c083924509753f62d",
+    "/assets/icons/icon-72x72.png": "4ff4fb68f7138c325d381059473461fa03718e5a",
+    "/assets/icons/icon-96x96.png": "a6c9f69426b3e9ce7e08e49e6cfe5ab9fbf01fbe",
     "/assets/images/BG10a_80.jpg": "46ec9f5a73d8de11a55fda1e011f855a1b14b100",
     "/assets/images/copyright.txt": "31b5ce0f0303822ca67d95492f01a96adf7dceac",
     "/assets/images/dice/100_dice/100_dice[100].png": "65300b4e3f43a0404a9ba83e656362639e6b4de6",
