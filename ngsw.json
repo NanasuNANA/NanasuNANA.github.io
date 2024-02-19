@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1708221662075,
+  "timestamp": 1708367937530,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -175,7 +175,7 @@
         "/assets/sounds/tm2/tm2_switch001.wav",
         "/assets/styles.css",
         "/index.html",
-        "/main.65c2fa8d213bb8bf.js",
+        "/main.df52cb9e7255d86d.js",
         "/polyfills.ffb6879e7c54e9cb.js",
         "/runtime.705791c7a0ed202b.js",
         "/styles.6157f5f9d1d04275.css"
@@ -707,7 +707,7 @@
     "/assets/sounds/tm2/tm2_swing003.wav": "c90ac458f22fcfab9b3d6c2ec9affd08f05e1d3f",
     "/assets/sounds/tm2/tm2_switch001.wav": "9d24b56a2ee54a41910341caf0b1bce4fdc6e99a",
     "/assets/styles.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/index.html": "224187ac6a2c8b7a32ead366f4ffaae8c26f121b",
+    "/index.html": "0667cb7cf695e93ae0a5e1f0ced9c3b2523410b1",
     "/lib/bcdice/bcdice-loader.06fdf3ade23961d8.js": "796dce443f484288f792ea8f05a56254f92f228b",
     "/lib/bcdice/game_system/AFF2e.5bb3b82fb37af6b8.js": "a823b8bb0870ee769e2d25404cab2ce8e419cce0",
     "/lib/bcdice/game_system/AceKillerGene.f9bfccccefde8817.js": "a22365b5c7f658f468fdeaad319fe7cf8c0493a7",
@@ -1013,7 +1013,7 @@
     "/lib/bcdice/i18n/SwordWorld2_0-zh_hans-json.582757dc1fd9844b.js": "2eef78a5cc568fff4326219538194130c62fdb5d",
     "/lib/bcdice/i18n/SwordWorld2_5-ja_jp-json.d7df8b5b807bc8c6.js": "ed323891177c2a1467556863da4545962fdde515",
     "/lib/bcdice/i18n/SwordWorld2_5-zh_hans-json.eafa49457147b748.js": "a489bd4a7954cdfef3fab5f42a7d1cf371efad81",
-    "/main.65c2fa8d213bb8bf.js": "99d2f267f0e66a7b9e6654d00c8b252536e7aa2f",
+    "/main.df52cb9e7255d86d.js": "0032c589820e29366bca3dc9aa70aeb09cebdb61",
     "/polyfills.ffb6879e7c54e9cb.js": "467a21cc14ff3ac8f6d5a142dd6502319045d76b",
     "/runtime.705791c7a0ed202b.js": "b241924166bcd0c15b3f5f281f9935ec129edfe5",
     "/styles.6157f5f9d1d04275.css": "d231d47dd39c38678e3b7e45987c2fdec80d855c"
