@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711233735524,
+  "timestamp": 1717400905904,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -174,9 +174,8 @@
         "/assets/sounds/tm2/tm2_swing003.wav",
         "/assets/sounds/tm2/tm2_switch001.wav",
         "/assets/styles.css",
-        "/index.html",
-        "/main.ea978e4149b60154.js",
-        "/polyfills.dc7a8c2a3fbe0b85.js",
+        "/main.450a8758b59292c7.js",
+        "/polyfills.a1b4fe0dac6b14ee.js",
         "/runtime.ad4cc24bc5e1d790.js",
         "/styles.bc31ba0bf7c3cbca.css"
       ],
@@ -707,7 +706,6 @@
     "/assets/sounds/tm2/tm2_swing003.wav": "c90ac458f22fcfab9b3d6c2ec9affd08f05e1d3f",
     "/assets/sounds/tm2/tm2_switch001.wav": "9d24b56a2ee54a41910341caf0b1bce4fdc6e99a",
     "/assets/styles.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/index.html": "5612ec08327e1c23cc7fbf04120a36c288ad9e27",
     "/lib/bcdice/bcdice-loader.2be2c5f0cc9fbd4f.js": "e86535d8cfe5bb963adf260a12b44816e2ed77c1",
     "/lib/bcdice/game_system/AFF2e.9679627c7b6f2e64.js": "cec23b82eec6de5f36a49cb45368ee8ae68a27e2",
     "/lib/bcdice/game_system/AceKillerGene.936527d1a5eab93c.js": "33916289ca774d094f162fd9bf4d3d11ed1e5017",
@@ -1013,8 +1011,8 @@
     "/lib/bcdice/i18n/SwordWorld2_0-zh_hans-json.6ecd2f6360f3ec13.js": "e353790b6da5d2705cee2d9f73f9cd7edff2e20b",
     "/lib/bcdice/i18n/SwordWorld2_5-ja_jp-json.19fee0a4355a9c9d.js": "09eaa4f9d8dcec528664c043383f31ac4bb9906f",
     "/lib/bcdice/i18n/SwordWorld2_5-zh_hans-json.667490ab0081b790.js": "900389d55d37aad1e636f7834f307c6288e18ff0",
-    "/main.ea978e4149b60154.js": "ab855e969c37dadad1581713f0c27834c4125b33",
-    "/polyfills.dc7a8c2a3fbe0b85.js": "c5f6e95871cacbf8e20cbf1f8b97e9114f0a1129",
+    "/main.450a8758b59292c7.js": "a2fbbe90820951772474fbf9a5c7e2282d4d445f",
+    "/polyfills.a1b4fe0dac6b14ee.js": "e0c7482b68aba9feb9d0777ff04aea7888535a93",
     "/runtime.ad4cc24bc5e1d790.js": "e9331d6b49e2faa0d559d18237ccce12f122752c",
     "/styles.bc31ba0bf7c3cbca.css": "71f71f7628a892fc49a1b5500276f1c0fb496577"
   },
