@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1717400905904,
+  "timestamp": 1725579280931,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -174,8 +174,8 @@
         "/assets/sounds/tm2/tm2_swing003.wav",
         "/assets/sounds/tm2/tm2_switch001.wav",
         "/assets/styles.css",
-        "/main.450a8758b59292c7.js",
-        "/polyfills.a1b4fe0dac6b14ee.js",
+        "/main.4ff7485d464fdfcf.js",
+        "/polyfills.5e950219b0924f0a.js",
         "/runtime.ad4cc24bc5e1d790.js",
         "/styles.bc31ba0bf7c3cbca.css"
       ],
@@ -1011,8 +1011,8 @@
     "/lib/bcdice/i18n/SwordWorld2_0-zh_hans-json.6ecd2f6360f3ec13.js": "e353790b6da5d2705cee2d9f73f9cd7edff2e20b",
     "/lib/bcdice/i18n/SwordWorld2_5-ja_jp-json.19fee0a4355a9c9d.js": "09eaa4f9d8dcec528664c043383f31ac4bb9906f",
     "/lib/bcdice/i18n/SwordWorld2_5-zh_hans-json.667490ab0081b790.js": "900389d55d37aad1e636f7834f307c6288e18ff0",
-    "/main.450a8758b59292c7.js": "a2fbbe90820951772474fbf9a5c7e2282d4d445f",
-    "/polyfills.a1b4fe0dac6b14ee.js": "e0c7482b68aba9feb9d0777ff04aea7888535a93",
+    "/main.4ff7485d464fdfcf.js": "1c181002d678e63b30f48c22da04b793a5da4642",
+    "/polyfills.5e950219b0924f0a.js": "0d3783fa8676618c1a1412e85f79e7432ff6d8ec",
     "/runtime.ad4cc24bc5e1d790.js": "e9331d6b49e2faa0d559d18237ccce12f122752c",
     "/styles.bc31ba0bf7c3cbca.css": "71f71f7628a892fc49a1b5500276f1c0fb496577"
   },
