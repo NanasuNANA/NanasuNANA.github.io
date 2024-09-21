@@ -1,10 +1,8 @@
-webrtc:
-  key: b76e83c3-6705-4dcc-83bc-63177fb20914
-  config: #未使用
-    iceServers: #未使用
-      - url: stun:stun.skyway.io:3478
-      - url: turn:homeo@turn.bistri.com:80
-        credential: homeo
+backend:
+  mode: skyway2023
+  url: https://udonarium-with-fly-public.nnanasu7.workers.dev/
+webrtc: #非推奨（旧SkyWay）
+  key: aaaaaaaa-bbbb-ccccc-dddd-eeeeeeeeeeee #[deprecated] Your (old) SkyWay API key
 app: #未使用
 dice:
   url: 
