@@ -1,5 +1,5 @@
 {
-  "name": "Udonarium with Fly (Powered by Udonarium 1.17.3)",
+  "name": "Udonarium with Fly (Powered by Udonarium)",
   "short_name": "Udonarium with Fly",
   "theme_color": "#dd0000",
   "background_color": "#ffffff",
@@ -105,7 +105,7 @@
       "type": "image/png",
       "purpose": "any"
     }
-  ], 
+  ],
   "screenshots": [
     {
      "src": "./card.png",
