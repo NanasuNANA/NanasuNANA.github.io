@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1781865071495,
+  "timestamp": 1784305522150,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -176,7 +176,7 @@
         "/assets/sounds/tm2/tm2_switch001.wav",
         "/assets/styles.css",
         "/index.html",
-        "/main.c1eaeb3d5a4e46d5.js",
+        "/main.071af3c94d3be1ce.js",
         "/polyfills.b3b1e6291d9193e3.js",
         "/runtime.26ac8c1fbe49ad59.js",
         "/styles.bcbcd0afc0f7580c.css"
@@ -1115,7 +1115,7 @@
     "/lib/bcdice/i18n/TensaiGunshiNiNaro-ja_jp-json.9a262817bca2e642.js": "67170c03d1b7db994ab9d187c63b5c47dda593a4",
     "/lib/bcdice/i18n/UnsungDuet-ja_jp-json.f6c87d0b9e993633.js": "5b302a66e2585e1760cf6844dd58606996699ab1",
     "/lib/bcdice/i18n/UnsungDuet-ko_kr-json.9a7971b9395f858c.js": "c8910136755fc98acf39a31ef30a1b22233594ec",
-    "/main.c1eaeb3d5a4e46d5.js": "9c05c895f493f38226ace9d17f1629cb96394526",
+    "/main.071af3c94d3be1ce.js": "a79360e8e6e4bdab6306423304d301b3b78275fb",
     "/polyfills.b3b1e6291d9193e3.js": "234b0b4fd6ea8b8adcbefdb485395e81967aa840",
     "/runtime.26ac8c1fbe49ad59.js": "3bf2829ba379890fc8f71ac3cced5f00397d9d5c",
     "/styles.bcbcd0afc0f7580c.css": "060392c933c68bb9a79b0861a868d768b8202909"
